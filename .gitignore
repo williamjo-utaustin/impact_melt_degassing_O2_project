@@ -1,0 +1,20 @@
+# MATLAB auto-save and backup files
+*.asv
+*.m~
+*.bak
+
+# Large simulation output files
+*.mat
+
+# Simulation output directories
+sim_output/
+post_proc_dir/
+
+# Temporary or log files
+*.tmp
+*.log
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+
